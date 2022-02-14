@@ -1,0 +1,22 @@
+{
+  "name": "pdfformextractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arvinkent18/pdf-form-extractor.git"
+  },
+  "keywords": [],
+  "author": [
+    "Arvin Kent S. Lazaga",
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "pdf2json": "^1.1.8",
+    "urldecode": "^1.0.1"
+  }
+}
